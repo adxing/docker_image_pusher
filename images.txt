@@ -1,4 +1,3 @@
-adxing/gecoos-ac:v1
 adxing/gecoos-ac:v2
 adxing/gecoos-ac:v2.2
 adxing/gecoos-ac:latest
